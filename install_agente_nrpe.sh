@@ -35,3 +35,4 @@ yum install tar -y
 tar -xvzf nagios-plugins*
 
 tar -xvzf nrpe*
+
