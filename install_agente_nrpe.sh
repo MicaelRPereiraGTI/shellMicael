@@ -7,6 +7,9 @@
 # EMPRESA: OpServices
 #
 ################################################################################
+PATH="nagios-plugins-2.2.1.tar.gz"
+PLUGINS="https://nagios-plugins.org/download/nagios-plugins-2.2.1.tar.gz"
+AGENT="nagios-plugins-2.2.1.tar.gz"
 
 
 cd /tmp;
